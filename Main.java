@@ -26,6 +26,10 @@ public class Main {
 	public void MetodoR9(){
 		System.out.print("Metodo Rama 9");
 	}
+	
+	public void metodoHernan(){
+		System.out.println("Hernan saluda");
+	}
 
 
 	public void MetodoLuis(){
@@ -35,7 +39,11 @@ public class Main {
 	public void MetodoLuis v2(){
 		System.out.print("Metodo Luis v2");
 	}
+
 	public void MetodoMiguel(){
 		System.out.print("Metodo Miguel");
+
+	public void MetodoLuis v2(){
+		System.out.print("Carolina");
 	}
 }
