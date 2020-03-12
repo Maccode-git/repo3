@@ -43,7 +43,16 @@ public class Main {
 	public void MetodoMiguel(){
 		System.out.print("Metodo Miguel");
 
+       public void MetodoFernanda v2(){
+		System.out.print("Metodo Luisa Fernanda");
+	}
+
 	public void MetodoLuis v2(){
 		System.out.print("Carolina");
+	}
+
+
+	public void nuevoaparapruebapull(){
+		System.out.print("nuevo para prueba de pull");
 	}
 }
