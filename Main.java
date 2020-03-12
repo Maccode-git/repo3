@@ -40,10 +40,25 @@ public class Main {
 		System.out.print("Metodo Luis v2");
 	}
 
+<<<<<<< HEAD
 	public void MetodoMiguel(){
 		System.out.print("Metodo Miguel");
+=======
+       public void MetodoFernanda v2(){
+		System.out.print("Metodo Luisa Fernanda");
+	}
+>>>>>>> 13a37043e8d6636332d3ade5caee5c52858b35ae
 
 	public void MetodoLuis v2(){
 		System.out.print("Carolina");
 	}
+<<<<<<< HEAD
+=======
+
+
+	public void nuevoaparapruebapull(){
+		System.out.print("nuevo para prueba de pull");
+	}
+
+>>>>>>> 13a37043e8d6636332d3ade5caee5c52858b35ae
 }
